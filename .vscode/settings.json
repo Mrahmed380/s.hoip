@@ -1,0 +1,4 @@
+{
+    "discord.detailsEditing": "Editing {filename}. Lines: {totallines}",
+    "discord.workspaceElapsedTime": true
+}
