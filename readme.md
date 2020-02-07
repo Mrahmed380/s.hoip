@@ -1,7 +1,7 @@
 # DiscordBot
 A chat bot for Discord app based off <a href="https://github.com/hydrabolt/discord.js/">discord.js</a>.
 
-And much more! Try `!help` to get a full list of available commands
+And much more! Try `.help` to get a full list of available commands
 
 # Installation
 
