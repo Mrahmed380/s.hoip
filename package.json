@@ -44,4 +44,8 @@
     "url": "https://github.com/Scraayp/s.hoip/issues"
   },
   "homepage": "https://github.com/Scraayp/s.hoip#readme"
+  "engines": {
+    "node": "v10.16.3",
+    "npm": "6.9.0"
+  }
 }
